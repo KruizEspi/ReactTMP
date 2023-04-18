@@ -1,0 +1,64 @@
+/*Accorden1RV*/
+.lbl-ConslAcc1,
+.lbl-DircAcc1 ,
+.lbl-ModifAcc1{
+  margin-left: 6.8em;
+
+}
+
+.lbl-ModifAcc1{margin-top: -2.6em;}
+.lbl-DircAcc1,.lbl-ConslAcc1 {margin-top: -2.7em;}
+
+
+.lbl-Gr2A1{
+  margin-left: 2em;
+  margin-top: -9em;
+}
+.lbl-Gr7{
+  margin-top: -0.9em;
+}
+ 
+.lbl-ProvinAcc1,
+.lbl-Visa-PerAcc1,
+.lbl-No-visaAcc1 {
+  margin-top: -2.6em;
+  margin-left:7.8em
+}
+
+.lbl-PaisReAcc1,
+.lbl-TelefAcc1,
+.lbl-No-ProlAcc1{
+  margin-top: -2.6em;
+  margin-left: 8.8em
+}
+
+
+.lbl-VueloAcc1,
+.lbl-lineaAcc1,
+.lbl-FechRAcc1{
+  margin-top: -2.6em;
+  margin-left:6em
+}
+
+.lbl-HoraAcc1,
+.lbl-LineaAcc1, 
+.lbl-pto-ProxAcc1{
+  margin-top: -2.6em;
+  margin-left: 7em
+}
+
+.lbl-LugarAcc1,
+.lbl-MovmAcc1,
+.lbl-TermnAcc1,
+.lbl-SalonAcc1{  
+  margin-top: -2.6em;
+  margin-left: 7em}
+
+.lbl-TaqllAcc1,
+.lbl-ActuantAcc1,
+.lbl-Fech-finAcc1,
+.lbl-FechRAcc1{
+  margin-top: -2.6em;
+  margin-left: 7em
+}
+

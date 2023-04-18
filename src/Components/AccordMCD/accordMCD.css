@@ -1,0 +1,48 @@
+ /*Accor*/
+
+.Card_lbl1{
+   margin-top: 2em;
+}
+
+ 
+
+ .Cards-acord{
+   width: 100%;
+   }
+   
+
+ .lbl-userAC{
+    font-size: 150%;
+    margin-left: 7.8em;
+    margin-top: -8em;
+  
+   }
+  
+   .imgCar-AC{
+    border-radius: 5%;
+    margin-top: -0.5em;
+    margin-left: -1em;
+    width:180px;
+   
+   }
+  
+   .lbl-TiDocAc,
+   .lbl-fechAC,
+   .lbl-NumDocAc,
+   .lbl-NacioAc,
+   .lbl-DireccAC,
+   .lbl-FuentInfAC{margin-left: 12.9em;}
+  
+   .lbl-fechNRAC,
+   .lbl-TiDocAcNRAC,
+   .lbl-NumDocAcNRAC,
+   .lbl-NacioAcNRAC,
+   .lbl-DireccACNRAC{margin-left:22.9em;margin-top: -2.6em;}
+   
+   .lbl-FuentInfACNRAC{margin-left:23.5em;margin-top: -2.6em;}
+  
+   .btnBzAC{
+    margin-right: 35em;
+    margin-top: -2em;
+   }
+  

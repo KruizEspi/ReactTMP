@@ -1,4 +1,5 @@
 import React from 'react'
+import './cardsBq.css'
 
 
 const CardsBq = () => {

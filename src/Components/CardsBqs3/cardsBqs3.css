@@ -1,0 +1,75 @@
+/*CardsBqs3*/
+.nextr {
+    margin-top: -5em;
+    border: #d81515 1px solid;
+    border-radius: 25px;
+    width: 15%;
+    color: black;
+    height: 3.5em;
+    margin-left: 33em;
+    margin-top: -5;
+  }
+  .btnBqs3{margin-left: 50em;margin-top: -em;}
+  
+  .iconFuentBqs3{margin-left: 25.9em;}
+  
+  .iconNacBqs3,
+  .icondocBqs3,
+  .icondocIdBqs3,
+  .iconCalendBqs3,
+  .iconCalend{
+    margin-left: -3em;
+  }
+  .icondocBqs3,
+  .iconNacBqs3{margin-top: -1.5em;}
+  
+  .lbl-fechNBqs3{margin-top: -1.5em;}
+  .lbl-FuentBq3{
+    margin-left: 25em;
+    margin-top: -1.5em;
+  }
+  .lbl-docIdBqs3
+  {
+    margin-top: -1.5em;
+  }
+  
+  .iconUserBqs3{
+    margin-left: -3em;
+    margin-top: -1.2em;
+  }
+  .cardBqs3 {
+    @media{ min-width: 800px;  }
+    
+  margin-left: 1em;
+  background: #4b6c9b;
+  margin-left: 4em;
+  margin-top: 5em;
+  padding: 15px;
+  width: 40%;
+  height: 170px;
+  box-shadow: 0 1px 3px rgb(23 23 23 / 24%);
+  border-radius: 17px;
+  color: #fff;
+  font-weight: 600;
+  border-bottom: #4233337e .3px solid;
+  }
+  
+  .imgcardBqs3{
+  
+    border-radius: 10%;
+    float:right;
+    width:8em;
+    height:9em;
+   
+  }
+  
+  .lbl-UserBq3{
+    margin-top: -1.4em;
+  }
+  
+  .cardlbl{
+    margin-top: -9.1em;
+    margin-left: 13em;
+    
+    }
+    

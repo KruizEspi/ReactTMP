@@ -1,0 +1,82 @@
+/*Navbar*/
+.ImgNav {    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: -0.2em;
+    width: 62px;
+    height: 70px;}
+  .ImgNav img{    margin-left: 15px;
+  margin-top: -0.0em;
+  width: 62px;
+  height: 70px;}
+  
+  .imgUser{
+    margin-top: -0.5em;
+    
+    width: 5em; 
+    height: 4em;
+    border-radius: 1500px;
+  }
+  
+  
+  .bntBusq{
+    margin-top: 1em;
+    margin-left: -0.5em;
+  }
+  .menDesp{
+    margin-top: -5.5em;
+  
+  }
+  .bntcamr {
+    margin-left: 0.6em;
+  
+    
+  }.bntcamr svg{
+    margin-top: -0.4em;
+    width: 26px;
+    height:26px;
+  
+  }
+  .bntuser {
+    position: absolute;
+    height: 4rem;
+    right:12rem;
+    width: 5rem;
+    top:0.75rem;
+  
+  }
+  
+  .lbl-userIc {
+    position: absolute;
+    top:1.7rem;
+    right: 4rem;
+    
+  }
+  .bntFaid{
+    position: absolute;
+    height: 4rem;
+    right:17rem;
+    width: 2rem;
+    top:0.75rem;
+  }
+  
+  .bntuser {
+    width: 60px;
+    margin-top: 0.1rem;
+  
+  }
+  
+  
+  .Navbar{
+    height: 9rem;
+      background-color: #151d2a;
+      position: fixed;
+      z-index: 100;
+      width: 100%;
+      box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+  }
+  
+  .Search{
+    width: 30em;
+    margin-left: 3em;;
+  }
+  

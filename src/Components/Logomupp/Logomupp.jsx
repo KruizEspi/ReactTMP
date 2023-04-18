@@ -1,3 +1,5 @@
+import './logomupp.css'
+
 const Logomupp = () => {
   return (
     

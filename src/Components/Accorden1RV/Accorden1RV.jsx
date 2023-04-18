@@ -1,4 +1,5 @@
 import React from 'react'
+import './accorden1RV.css'
 
 const Accorden1RV = () => {
   return (
