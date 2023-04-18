@@ -1,6 +1,6 @@
 import React from 'react'
 
-const CardsP = () => {
+const CardsRBP= () => {
   return (
     <div className="cardresult items-center mt-6 ml-2">
 
@@ -15,4 +15,4 @@ const CardsP = () => {
   )
 }
 
-export default CardsP
+export default CardsRBP

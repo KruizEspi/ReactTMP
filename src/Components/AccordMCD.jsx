@@ -1,6 +1,6 @@
 import React from "react";
 
-export default function Intento2() {
+export default function AccordMCD() {
     return (
         <div className="flex items-center justify-center h-screen">
             <div className="bg-white">

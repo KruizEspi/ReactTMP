@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Accorden1 = () => {
+const Accorden1RV = () => {
   return (
    <div>
       <div className="flex items-center justify-center h-screen">
@@ -164,6 +164,6 @@ const Accorden1 = () => {
   )
 }
 
-export default Accorden1
+export default Accorden1RV
     
 

@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function CardsBRe() {
+export default function CardsBRV() {
   return (
     <div className='CardInf '>
       
